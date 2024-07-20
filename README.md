@@ -4,17 +4,22 @@ Don't worry, I'm definitely not making AI to take over humanity. 🤖
 
 ## Quick Profile Overview
 ✅ Masters in AI at Deakin University
+
 ✅ Worked with speech, text, and image data
+
 ✅ Data Visualization and Analysis 📈
+
 ✅ Looking for jobs 👀
+
 ✅ Full working rights in Australia 🇦🇺
+
 ❌ Can carry you in video games
 <br>
 
 Here's a video of me giving a presentation of the robot Pepper during open day
 <br>
 <a href="https://youtube.com/shorts/iYLsXjNKgI0?feature=share">
-<img src="https://raw.githubusercontent.com/sudislife/sudislife/main/Me%20Presenting%20Pepper.jpg" style="width:300px; height:auto;">
+<img src="https://raw.githubusercontent.com/sudislife/sudislife/main/Me%20Presenting%20Pepper.jpg" style="align:center; width:300px; height:auto;">
 </a>
 
 

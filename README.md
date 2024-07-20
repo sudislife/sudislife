@@ -25,7 +25,7 @@ I like coding, playing chess, and long walks on the beach. Don't worry, I'm defi
 Here's a random video of me giving a presentation of the robot Pepper during open day
 <br>
 <a href="https://youtube.com/shorts/iYLsXjNKgI0?feature=share">
-<img src="https://raw.githubusercontent.com/sudislife/sudislife/main/Me%20Presenting%20Pepper.jpg" style="align:center; width:300px; height:auto;">
+    <img src="https://raw.githubusercontent.com/sudislife/sudislife/main/Me%20Presenting%20Pepper.jpg" style="align:center; width:300px; height:auto;">
 </a>
 
 ## I'm working on
@@ -34,20 +34,20 @@ Here's a random video of me giving a presentation of the robot Pepper during ope
 
 ## What do I use to make AI which doesn't take over humanity?
 <p align="center" width="100%">
-<div style="width:100%; display:flex; flex-wrap:wrap; justify-content:center; text-align:center">
-<img alt="Python"      width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
-<img alt="Tensorflow"  width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
-<img alt="PyTorch"     width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/>
-<img alt="ScikitLearn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg"/>
-<img alt="Selinium"    width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"/>
-<img alt="Docker"      width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-</div>
+    <div width="100%" display="flex" justify-content="center">
+        <img alt="Python"      width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
+        <img alt="Tensorflow"  width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
+        <img alt="PyTorch"     width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/>
+        <img alt="ScikitLearn" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg"/>
+        <img alt="Selinium"    width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"/>
+        <img alt="Docker"      width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+    </div>
 </p>
 
 ## Certifications
 <p align="center" width="100%">
-<div style="width:100%; display:flex; flex-wrap:wrap; justify-content:center; text-align:center">
-<img alt="Azure" width="100px" style="padding-right:20px;" src="https://k21academy.com/wp-content/uploads/2020/06/AI_Fundamentals-min.png"/>
-<img alt="AWS" width="100px" style="padding-right:20px;" src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/aws-cloud-practitioner-certification-prep/learn-about-the-aws-certified-cloud-practitioner-exam/images/8ef555de1a79ee04d46f669f807e8626_8-e-63168-f-d-72-f-4272-8994-6779-eec-75-ce-9.png"/>
-</div>
+    <div width="100%" display="flex" justify-content="center">
+        <img alt="Azure" width="100px" style="padding-right:20px;" src="https://k21academy.com/wp-content/uploads/2020/06/AI_Fundamentals-min.png"/>
+        <img alt="AWS" width="100px" style="padding-right:20px;" src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/aws-cloud-practitioner-certification-prep/learn-about-the-aws-certified-cloud-practitioner-exam/images/8ef555de1a79ee04d46f669f807e8626_8-e-63168-f-d-72-f-4272-8994-6779-eec-75-ce-9.png"/>
+    </div>
 </p>

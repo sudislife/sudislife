@@ -27,6 +27,9 @@ Here's a video of me giving a presentation of the robot Pepper during open day
 <img src="https://raw.githubusercontent.com/sudislife/sudislife/main/Me%20Presenting%20Pepper.jpg" style="align:center; width:300px; height:auto;">
 </a>
 
+## I'm working on
+- [Sales Quantity Prediction using a DRU](https://github.com/sudislife/Sales-Quantity-Prediction-using-a-GRU)
+- [Complete Guide to TensorFlow for Deep Learning with Python](https://www.udemy.com/course/complete-guide-to-tensorflow-for-deep-learning-with-python/?couponCode=MCLARENT71824)
 
 ## What do I use to make AI which doesn't take over humanity?
 <div style="width:100%; display:flex; flex-wrap:wrap; justify-content:center;">

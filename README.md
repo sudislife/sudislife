@@ -1,5 +1,5 @@
 # Hi, I'm Sud
-I like coding, playing chess, and long walks on the beach. Don't worry, I'm definitely not making AI to take over humanity. 🤖
+I like coding, playing chess, and long walks on the beach. Don't worry, I'm definitely not making AI to take over the world. 🤖
 <br>
 
 ## Quick Profile Overview
@@ -44,6 +44,6 @@ Here's a random video of me giving a presentation of the robot Pepper during ope
 
 ## Certifications
 <div style="width:100%; display:flex; flex-wrap:wrap; justify-content:center;">
-<img alt="Azure" width="30px" style="padding-right:10px;" src="https://k21academy.com/wp-content/uploads/2020/06/AI_Fundamentals-min.png"/>
-<img alt="AWS" width="30px" style="padding-right:10px;" src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/aws-cloud-practitioner-certification-prep/learn-about-the-aws-certified-cloud-practitioner-exam/images/8ef555de1a79ee04d46f669f807e8626_8-e-63168-f-d-72-f-4272-8994-6779-eec-75-ce-9.png"/>
+<img alt="Azure" width="50px" style="padding-right:20px;" src="https://k21academy.com/wp-content/uploads/2020/06/AI_Fundamentals-min.png"/>
+<img alt="AWS" width="50px" style="padding-right:20px;" src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/aws-cloud-practitioner-certification-prep/learn-about-the-aws-certified-cloud-practitioner-exam/images/8ef555de1a79ee04d46f669f807e8626_8-e-63168-f-d-72-f-4272-8994-6779-eec-75-ce-9.png"/>
 </div>

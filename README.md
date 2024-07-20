@@ -34,16 +34,16 @@ Here's a random video of me giving a presentation of the robot Pepper during ope
 
 ## What do I use to make AI which doesn't take over humanity?
 <p align="center" width="100%">   
-    <img alt="Python"      width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
-    <img alt="Tensorflow"  width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
-    <img alt="PyTorch"     width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/>
-    <img alt="ScikitLearn" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg"/>
-    <img alt="Selinium"    width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"/>
-    <img alt="Docker"      width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+    <img alt="Python"      width="30px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
+    <img alt="Tensorflow"  width="30px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
+    <img alt="PyTorch"     width="30px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/>
+    <img alt="ScikitLearn" width="30px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg"/>
+    <img alt="Selinium"    width="30px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"/>
+    <img alt="Docker"      width="30px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
 </p>
 
 ## Certifications
 <p align="center" width="100%">
-    <img alt="Azure" width="100px" style="padding-right:20px;" src="https://k21academy.com/wp-content/uploads/2020/06/AI_Fundamentals-min.png"/>
-    <img alt="AWS" width="100px" style="padding-right:20px;" src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/aws-cloud-practitioner-certification-prep/learn-about-the-aws-certified-cloud-practitioner-exam/images/8ef555de1a79ee04d46f669f807e8626_8-e-63168-f-d-72-f-4272-8994-6779-eec-75-ce-9.png"/>
+    <img alt="Azure" width="100px" style="padding-right:30px;" src="https://k21academy.com/wp-content/uploads/2020/06/AI_Fundamentals-min.png"/>
+    <img alt="AWS" width="100px" style="padding-right:30px;" src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/aws-cloud-practitioner-certification-prep/learn-about-the-aws-certified-cloud-practitioner-exam/images/8ef555de1a79ee04d46f669f807e8626_8-e-63168-f-d-72-f-4272-8994-6779-eec-75-ce-9.png"/>
 </p>

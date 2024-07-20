@@ -1,5 +1,5 @@
 # Hi, I'm Sud
-Don't worry, I'm definitely not making AI to take over humanity. 🤖
+I like coding, playing chess, and long walks on the beach. Don't worry, I'm definitely not making AI to take over humanity. 🤖
 <br>
 
 ## Quick Profile Overview
@@ -21,7 +21,8 @@ Don't worry, I'm definitely not making AI to take over humanity. 🤖
 ❌ Can carry you in video games
 <br>
 
-Here's a video of me giving a presentation of the robot Pepper during open day
+## How to train a robot
+Here's a random video of me giving a presentation of the robot Pepper during open day
 <br>
 <a href="https://youtube.com/shorts/iYLsXjNKgI0?feature=share">
 <img src="https://raw.githubusercontent.com/sudislife/sudislife/main/Me%20Presenting%20Pepper.jpg" style="align:center; width:300px; height:auto;">

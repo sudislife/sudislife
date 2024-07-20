@@ -11,7 +11,7 @@ Don't worry, I'm definitely not making AI to take over humanity. 🤖
 ❌ Can carry you in video games
 <br>
 
-[![Giving a presentation during Deakin Open Day](https://img.youtube.com/vi/x7_srxf5tR0/0.jpg)](https://youtube.com/shorts/x7_srxf5tR0?feature=share)
+[![Giving a presentation during Deakin Open Day](https://img.youtube.com/vi/iYLsXjNKgI0/0.jpg)](https://youtube.com/shorts/iYLsXjNKgI0?feature=share)
 
 
 ## What do I use to make AI which doesn't take over humanity?

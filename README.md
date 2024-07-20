@@ -5,13 +5,18 @@ Don't worry, I'm definitely not making AI to take over humanity. 🤖
 ## Quick Profile Overview
 ✅ Masters in AI at Deakin University
 
+
 ✅ Worked with speech, text, and image data
+
 
 ✅ Data Visualization and Analysis 📈
 
+
 ✅ Looking for jobs 👀
 
+
 ✅ Full working rights in Australia 🇦🇺
+
 
 ❌ Can carry you in video games
 <br>

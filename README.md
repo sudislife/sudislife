@@ -33,7 +33,7 @@ Here's a random video of me giving a presentation of the robot Pepper during ope
 - [Complete Guide to TensorFlow for Deep Learning with Python (Udemy Certification)](https://www.udemy.com/course/complete-guide-to-tensorflow-for-deep-learning-with-python/?couponCode=MCLARENT71824)
 
 ## What do I use to make AI which doesn't take over humanity?
-<div style="width:100%; display:flex; flex-wrap:wrap; justify-content:center;">
+<div style="width:100%; display:flex; flex-wrap:wrap; justify-content:center; text-align:center">
 <img alt="Python"      width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
 <img alt="Tensorflow"  width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
 <img alt="PyTorch"     width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/>
@@ -43,7 +43,7 @@ Here's a random video of me giving a presentation of the robot Pepper during ope
 </div>
 
 ## Certifications
-<div style="width:100%; display:flex; flex-wrap:wrap; justify-content:center;">
+<div style="width:100%; display:flex; flex-wrap:wrap; justify-content:center; text-align:center">
 <img alt="Azure" width="100px" style="padding-right:20px;" src="https://k21academy.com/wp-content/uploads/2020/06/AI_Fundamentals-min.png"/>
 <img alt="AWS" width="100px" style="padding-right:20px;" src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/aws-cloud-practitioner-certification-prep/learn-about-the-aws-certified-cloud-practitioner-exam/images/8ef555de1a79ee04d46f669f807e8626_8-e-63168-f-d-72-f-4272-8994-6779-eec-75-ce-9.png"/>
 </div>

@@ -28,7 +28,7 @@ Here's a video of me giving a presentation of the robot Pepper during open day
 </a>
 
 ## I'm working on
-- [Sales Quantity Prediction using a DRU](https://github.com/sudislife/Sales-Quantity-Prediction-using-a-GRU)
+- [Sales Quantity Prediction using a GRU](https://github.com/sudislife/Sales-Quantity-Prediction-using-a-GRU)
 - [Complete Guide to TensorFlow for Deep Learning with Python](https://www.udemy.com/course/complete-guide-to-tensorflow-for-deep-learning-with-python/?couponCode=MCLARENT71824)
 
 ## What do I use to make AI which doesn't take over humanity?

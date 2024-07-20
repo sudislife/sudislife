@@ -24,9 +24,11 @@ I like coding, playing chess, and long walks on the beach. Don't worry, I'm defi
 ## How to train a robot
 Here's a random video of me giving a presentation of the robot Pepper during open day
 <br>
+<p align="center" width="100%"> 
 <a href="https://youtube.com/shorts/iYLsXjNKgI0?feature=share">
-    <img src="https://raw.githubusercontent.com/sudislife/sudislife/main/Me%20Presenting%20Pepper.jpg" style="align:center; width:300px; height:auto;">
+    <img src="https://raw.githubusercontent.com/sudislife/sudislife/main/Me%20Presenting%20Pepper.jpg" style="align:center; width:200px; height:auto;">
 </a>
+</p>
 
 ## I'm working on
 - [Sales Quantity Prediction using a GRU (Personal Project)](https://github.com/sudislife/Sales-Quantity-Prediction-using-a-GRU)

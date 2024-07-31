@@ -44,11 +44,19 @@ Here's a random video of me coding the robot Pepper doing air guitar during my t
 ## What do I use to make AI which doesn't take over humanity?
 <p align="center" width="100%">   
     <img alt="Python"      width="50px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
+    <img alt="Keras"       width="50px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg"/>
     <img alt="Tensorflow"  width="50px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
     <img alt="PyTorch"     width="50px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/>
     <img alt="ScikitLearn" width="50px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg"/>
+    <img alt="NumPy"       width="50px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
+    <img alt="Pandas"      width="50px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
     <img alt="Selinium"    width="50px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"/>
+    <img alt="MySQL"       width="50px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
     <img alt="Docker"      width="50px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+    <img alt="Azure"       width="50px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
+    <img alt="Flask"       width="50px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"/>
+    <img alt="Git"         width="50px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+    <img alt="Streamlit"   width="50px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit-original.svg"/>
 </p>
 
 ## Certifications

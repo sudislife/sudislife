@@ -56,7 +56,7 @@ Here's a random video of me coding the robot Pepper doing air guitar during my t
     <img alt="Azure"       width="50px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
     <img alt="Flask"       width="50px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"/>
     <img alt="Git"         width="50px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-    <img alt="Streamlit"   width="50px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit-original.svg"/>
+    <img alt="Streamlit"   width="50px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg"/>
 </p>
 
 ## Certifications

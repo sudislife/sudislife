@@ -22,12 +22,19 @@ I like coding, playing chess, and long walks on the beach. Don't worry, I'm defi
 <br>
 
 ## How to train your robot
-Here's a random video of me coding the robot Pepper to dance
+Here's a random video of me coding the robot Pepper doing air guitar
 <br>
 <p align="center" width="100%"> 
 <a href="https://youtube.com/shorts/iYLsXjNKgI0?feature=share">
     <img src="https://raw.githubusercontent.com/sudislife/sudislife/main/Me%20Presenting%20Pepper.jpg" style="align:center; width:200px; height:auto;">
 </a>
+
+### How did we make Pepper unsderstand human language and become Deakin's course advisor?
+- The first problem was that Pepper picked up fan noises and any other background noises which the speech-to-text libraries did not appreciate. Spectral Gating Noise Reduction was implemented via this [library](https://pypi.org/project/noisereduce/) in order to fix this problem.
+- For speech-to-text, we tested with [CMU Sphinx](https://cmusphinx.github.io/wiki/), Google Speech Recognition, [Wit.ai](https://wit.ai/) and [IBM Speech to Text](http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/speech-to-text.html), and finally decided to stick with Google Speech Recognition.
+- All of this was to be sent back and forth between python versions using a flask server as Pepper works on an older python version.
+- This text was inputted into GPT4All and we used retrival-augmented generation using Deakin's courses so that it could correlate and find courses which the user would like.
+
 </p>
 
 ## I'm working on

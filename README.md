@@ -22,7 +22,7 @@ I like coding, playing chess, and long walks on the beach. Don't worry, I'm defi
 <br>
 
 ## How to train your robot
-Here's a random video of me coding the robot Pepper doing air guitar
+Here's a random video of me coding the robot Pepper doing air guitar during my time as a Research Assistant at Deakin.
 <br>
 <p align="center" width="100%"> 
 <a href="https://youtube.com/shorts/iYLsXjNKgI0?feature=share">

@@ -21,8 +21,8 @@ I like coding, playing chess, and long walks on the beach. Don't worry, I'm defi
 ❌ Can carry you in video games
 <br>
 
-## How to train a robot
-Here's a random video of me giving a presentation of the robot Pepper during open day
+## How to train your robot
+Here's a random video of me coding the robot Pepper to dance
 <br>
 <p align="center" width="100%"> 
 <a href="https://youtube.com/shorts/iYLsXjNKgI0?feature=share">
@@ -36,12 +36,12 @@ Here's a random video of me giving a presentation of the robot Pepper during ope
 
 ## What do I use to make AI which doesn't take over humanity?
 <p align="center" width="100%">   
-    <img alt="Python"      width="30px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
-    <img alt="Tensorflow"  width="30px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
-    <img alt="PyTorch"     width="30px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/>
-    <img alt="ScikitLearn" width="30px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg"/>
-    <img alt="Selinium"    width="30px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"/>
-    <img alt="Docker"      width="30px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+    <img alt="Python"      width="50px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
+    <img alt="Tensorflow"  width="50px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
+    <img alt="PyTorch"     width="50px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/>
+    <img alt="ScikitLearn" width="50px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg"/>
+    <img alt="Selinium"    width="50px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"/>
+    <img alt="Docker"      width="50px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
 </p>
 
 ## Certifications

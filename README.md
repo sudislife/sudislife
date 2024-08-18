@@ -37,7 +37,8 @@ Here's a random video of me coding the robot Pepper doing air guitar during my t
 
 </p>
 
-## I'm working on
+## Projects I'm working on
+- [Analysis and Predicition of Flight Delays](https://github.com/sudislife/Flight-Delays)
 - [Sales Quantity Prediction using a GRU (Personal Project)](https://github.com/sudislife/Sales-Quantity-Prediction-using-a-GRU)
 - [Complete Guide to TensorFlow for Deep Learning with Python (Udemy Certification)](https://www.udemy.com/course/complete-guide-to-tensorflow-for-deep-learning-with-python/?couponCode=MCLARENT71824)
 
